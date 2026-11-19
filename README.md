@@ -15,6 +15,6 @@ In-Memory Computing · Hardware-Algorithm Co-Design · Content-Addressable Memor
 
 ## Selected Repositories
 
-- [RE-CAM](https://github.com/datou0718/RE-CAM)
-- [CAIMS](https://github.com/datou0718/CAIMS)
-- [RETENTION](https://github.com/datou0718/RETENTION)
+- [RE-CAM](https://github.com/datou0718/RE-CAM): Readout-Enhanced Content-Addressable Memory for Quantitative Similarity Search
+- [CAIMS](https://github.com/datou0718/CAIMS): Scalable Cross-Array In-Memory Search
+- [RETENTION](https://github.com/datou0718/RETENTION): Resource-Efficient Tree-Based Ensemble Model Acceleration with Content-Addressable Memory
